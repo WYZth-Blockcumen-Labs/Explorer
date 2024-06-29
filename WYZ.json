@@ -1,8 +1,7 @@
-
 {
     "footer": {
         "copyRightsText": "WYZth PoA All Rights Reserved",
-        "donationAddress": "xdc58c43c37a2e74c34352a809c447c223455e21006",
+        "donationAddress": "0xfCAB5A0d411F40D1e0378FB5E5FCd083121a9BcB",
         "poweredByText": "WYZth PoA L1 Chain",
         "scanText": "WYZthScan"
 
@@ -26,30 +25,17 @@
         "facebook": "",
         "reddit": "",
         "medium": "",
-        "youtube": "https://www.youtube.com/@BlocksScan",
+        "youtube": "",
         "coingecko": "",
-        "coinmarketcap": ""
+        "coinmarketcap": "https://coinmarketcap.com/community/profile/WYZth/"
     },
     "sponsor": [
         {
             "logo": "https://wyscale.com/logo.svg",
             "title": "WYscale",
-            "description": "A Web3 Crypto Mutual Fund, start with as low as $50 on",
+            "description" : "A Web3 Crypto Mutual Fund, start with as low as $50 on",
             "linkText": "WYscale",
             "link": "https://wyscale.com/"
-        },
-        {
-            "logo": "https://cdn.blocksscan.io/eaas/BS-dark-logo.svg",
-            "title": "BlocksScan Explorer Upgrade",
-            "description": "Streamline Hardhat Smart Contract Verification: A Guide to Automated Verification on BlocksScan",
-            "linkText": "More Info",
-            "link": "https://www.xdc.dev/blocksscan/streamline-hardhat-smart-contract-verification-a-guide-to-automated-verification-on-blocksscan-with-xdc-network-30kc"
-        },        {
-            "logo": "https://cdn.blocksscan.io/eaas/BS-dark-logo.svg",
-            "title": "BlocksScan Explorer Upgrade",
-            "description": "Streamline Hardhat Smart Contract Verification: A Guide to Automated Verification on BlocksScan",
-            "linkText": "More Info",
-            "link": "https://www.xdc.dev/blocksscan/streamline-hardhat-smart-contract-verification-a-guide-to-automated-verification-on-blocksscan-with-xdc-network-30kc"
         }
     ],
     "ads": [
